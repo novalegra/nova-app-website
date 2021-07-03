@@ -19,9 +19,6 @@ If you choose to use my Service, then you agree to the collection and use of inf
 ## Information Collection and Use
 For a better experience, while using the Service, I may ask you to provide Nova with certain personally identifiable information, including but not limited to menstrual data. The information that I request will be retained on your device in HealthKit and is not collected by me in any way.
 
-## Log Data
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
-
 ## Cookies
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory. This Service does not use these “cookies” explicitly and I do not use any third-party code that utilizes cookies.
 
